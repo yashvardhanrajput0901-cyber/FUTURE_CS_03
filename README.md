@@ -168,9 +168,7 @@ HTTP/2 401 Unauthorized
 report/         → Final PDF report
 raw-analysis/   → Raw API testing outputs
 scripts/        → Bash automation scripts
-screenshots/    → Evidence screenshots
 findings/       → Security findings documentation
-assets/         → Project assets
 ```
 
 ---
@@ -217,18 +215,6 @@ This assessment strictly followed ethical testing principles:
 - No exploitation performed
 - No bypass attempts
 - No denial-of-service testing
-
----
-
-# Screenshots Included
-
-The repository contains professional screenshots captured from:
-
-- Kali Linux terminal
-- curl-based testing
-- Firefox DevTools
-- Header analysis
-- Response analysis
 
 ---
 
