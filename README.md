@@ -167,7 +167,7 @@ This project strictly followed ethical testing practices:
 
 # Author
 
-Yashvardhan Rajput
+Yashvardhan Patel
 
 Future Interns – Cyber Security Internship 2026
 
